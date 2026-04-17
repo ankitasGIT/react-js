@@ -1,0 +1,19 @@
+1. React is a library. 
+2. React-DOM : web
+3. React-native : Phone
+
+
+4. npx create-react-app name
+npx - node package executor
+create-react-app - utility
+
+4. npm run build:
+
+- build folder is created 
+- serves all the users
+- css, js
+- build folder is ready for deploying
+
+5. npm create vite@latest
+
+- 
