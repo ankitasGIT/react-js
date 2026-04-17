@@ -17,3 +17,18 @@ create-react-app - utility
 5. npm create vite@latest
 
 - 
+
+6. BASICS
+const root = ReactDOM.createRoot(document.getElementById('root'));
+root.render(
+  <React.StrictMode>
+    <App />
+  </React.StrictMode>
+);
+
+- react-scripts: Injects js in html (Vite - directly loads js into src)
+- React.StrictMode: 
+- In vite: always use .jsx | not needed in react basics
+- <> add empty frgament to avoid error for return html block in Vite.
+- Upper case for component name in both ways.
+
