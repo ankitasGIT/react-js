@@ -15,3 +15,9 @@ New custom authService - auth.js
 Added config.js - Created class for custom db, file operations
 
 4. Configure redux toolkit - 
+
+created store.js
+configured store in provider - main.jsx
+Added header & footer for basic layout 
+Added tailwind css
+
