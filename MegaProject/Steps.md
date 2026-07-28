@@ -1,23 +1,26 @@
-1. .env & Appwrite - Done
+# Project Progress
 
-Added .env 
-Added conf.js
-Config of appwrite done
+## 1. .env & Appwrite — ✅ Done
+- Added `.env`
+- Added `conf.js`
+- Configured Appwrite
 
+## 2. Build auth service with Appwrite — ✅ Done
+- Created custom `authService` in `auth.js`
 
-2. Build auth service with appwrite - DONE
+## 3. Appwrite database, file upload, custom queries — ✅ Done
+- Added `config.js`
+- Created class for custom DB and file operations
 
-New custom authService - auth.js
+## 4. Configure Redux Toolkit — ✅ Done
+- Created `store.js`
+- Configured store in `<Provider>` — `main.jsx`
+- Added header & footer for basic layout
+- Added Tailwind CSS
+- useDispatch
 
-
-3. Appwrite database, file upload, custom queries - DONE
-
-Added config.js - Created class for custom db, file operations
-
-4. Configure redux toolkit - 
-
-created store.js
-configured store in provider - main.jsx
-Added header & footer for basic layout 
-Added tailwind css
-
+## 5. Production-grade React components — ✅ Done
+- Components section
+- Logout Button
+- useRef, useNavigate, useSelector hook
+- forwardRef used in Input.jsx
