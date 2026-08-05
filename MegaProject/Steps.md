@@ -24,3 +24,21 @@
 - Logout Button
 - useRef, useNavigate, useSelector hook
 - forwardRef used in Input.jsx
+
+## 6. React hook form in Production - ✅ Done
+- 2 ways of using forwardRef `Select.js` & `Input.jsx`
+- useForm from react hook form *docs
+- Link (click) & navigate(auto)
+- handleSubmit(function) -> event
+- Created `Login.jsx` | `Signup.jsx` | ``AuthLayout.jsx`
+
+## 7. Adding form & slug values -  ✅ Done
+
+- Editor tag
+- Controller (react hook form)
+- Added `RTE.jsx`
+- useForm() : watch, setValue
+- Usecallback
+- slugTransform : 
+- unsubscribe() :
+- 41:18
